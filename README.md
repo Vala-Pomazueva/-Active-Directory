@@ -1,4 +1,4 @@
-<img width="1024" height="768" alt="Screenshot 2026-04-25 152513" src="https://github.com/user-attachments/assets/a1d3a623-3883-434f-ad63-8a2d9888a874" /><img width="1021" height="787" alt="Screenshot 2026-04-24 231828" src="https://github.com/user-attachments/assets/815e7887-1e1d-4c62-bea3-71c2f2f42205" /># -Active-Directory
+
 
 Лабораторна робота - Створення серверу Active Directory з додаванням користувача в домен
 Робота виконувалась в гіпервізорі Oracle VirtualBox
